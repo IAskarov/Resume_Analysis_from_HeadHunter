@@ -1,1 +1,1 @@
-# Resume_Analysis_from_HeadHunter
+# Проект: Анализ резюме из HeadHunter
